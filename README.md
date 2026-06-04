@@ -54,7 +54,8 @@
 bank-customer-churn-analysis/
 ├── data/
 │   └── churn.csv                          # исходный датасет
-├── bank_churn_analysis.ipynb              # основной Jupyter Notebook
+├── notebooks/
+│   └── bank_churn_analysis.ipynb          # основной Jupyter Notebook
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
@@ -128,11 +129,11 @@ bank-customer-churn-analysis/
     ```bash
     pip install -r requirements.txt
     ```
-4. Откройте и запустите Jupyter Notebook:
+4. Запустите Jupyter из **корня проекта**:
     ```bash
     jupyter notebook
     ```
-5. Откройте файл `bank_churn_analysis.ipynb` для запуска и просмотра анализа.
+5. Откройте `notebooks/bank_churn_analysis.ipynb` и выполните ячейки по порядку.
 
 ---
 
