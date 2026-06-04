@@ -54,7 +54,7 @@
 bank-customer-churn-analysis/
 ├── data/
 │   └── churn.csv                          # исходный датасет
-├── Анализ_оттока_клиентов_банка.ipynb     # основной Jupyter Notebook
+├── bank_churn_analysis.ipynb              # основной Jupyter Notebook
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
@@ -132,7 +132,7 @@ bank-customer-churn-analysis/
     ```bash
     jupyter notebook
     ```
-5. Откройте файл `Анализ_оттока_клиентов_банка.ipynb` для запуска и просмотра анализа.
+5. Откройте файл `bank_churn_analysis.ipynb` для запуска и просмотра анализа.
 
 ---
 
